@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Prasad</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently Developing web applications in **Next.js and TypeScript**
 
 - 📫 How to reach me **amarp4578@gmail.com**
 
